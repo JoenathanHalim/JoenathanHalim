@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am Joenathan, final year Math & Data Analytics student at Nanyang Technological University, Singapore. Currently pursuing a career in **Data Science, Machine Learning, and AI Engineering**. 
+
+You can find my me on [LinkedIn](https://www.linkedin.com/in/joenathanhalim/).
 <!--
 **JoenathanHalim/JoenathanHalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
